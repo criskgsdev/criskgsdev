@@ -1,8 +1,8 @@
-- 👋 Hello, I’m @criskgsdev / Cristian Măndoiu 
+- 👋 Hello, I’m @criskgsdev / <b>Cristian Măndoiu</b>
 
 Currently living in Pitești, 🇷🇴 
 
-I've started the journey of self-learning Frontend Development on 1st of May 2022 (my 28th birthday), having almost no background in this field, not a single line of Code written until then.
+I've started the journey of <b>self-learning</b> Frontend Development on 1st of May 2022 (my 28th birthday), having almost no background in this field, not a <b>single</b> line of code written till then.
 
 In this point I teach myself using multiple sources: books, websites  (The Odin Project / W3schools / MDN web books) and YouTube videos.
 
