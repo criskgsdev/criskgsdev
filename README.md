@@ -6,7 +6,7 @@ I've started the journey of self-learning Frontend Development on 1st of May 202
 
 In this point I teach myself using multiple sources: books, websites  (The Odin Project / W3schools / MDN web books) and YouTube videos.
 
-The main goal that I set is to be employed by the 1st of May 2022 or even earlier. 🦸
+The main goal that I set is to be employed as a Frontend Dev. by the 1st of May 2022 or even earlier. 🦸
 
 
 ...to be continued
